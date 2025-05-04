@@ -1,2 +1,2 @@
 # Cellular Automata
-Implementations of Cellular Automata in C
+Collection of different Cellular Automata implementations
