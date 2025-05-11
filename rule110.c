@@ -57,6 +57,7 @@ Row random_row(void) {
 	}
 	return result;
 }
+
 int main() {
 	srand(time(0));
 	Row row = random_row();
